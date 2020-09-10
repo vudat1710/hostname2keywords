@@ -1,0 +1,10 @@
+rake_nltk==1.0.4
+tldextract==2.2.3
+nltk==3.4.5
+numpy==1.14.6
+underthesea==1.1.17
+langdetect==1.0.8
+vncorenlp==1.0.3
+spacy==2.3.2
+pandas==1.0.4
+gensim==3.8.3
