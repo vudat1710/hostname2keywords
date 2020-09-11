@@ -1,5 +1,5 @@
-ADDITIONAL_ENGLISH_STOPWORDS = '/home/vudat1710/Works/hostname_topic/additional_english_stopwords.txt'
-VIETNAMESE_STOPWORDS_DASH = '/home/vudat1710/Works/hostname_topic/vietnamese_stopwords_dash.txt'
+ADDITIONAL_ENGLISH_STOPWORDS = '/home/vudat1710/Works/hostname_topic/stopwords/additional_english_stopwords.txt'
+VIETNAMESE_STOPWORDS_DASH = '/home/vudat1710/Works/hostname_topic/stopwords/vietnamese_stopwords_dash.txt'
 VNCORENLP_JAR_PATH = '/home/vudat1710/Downloads/VnCoreNLP/VnCoreNLP-1.1.1.jar'
 MERGE_CRAWLED_DATA_PATH = '/home/vudat1710/Works/hostname_topic/data/merge_crawled_data.csv'
 GG_SEARCH_TOPICS = '/home/vudat1710/Works/gg_search_topics.csv'
