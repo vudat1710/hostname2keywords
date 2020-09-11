@@ -9,6 +9,7 @@ from .utils import get_stop_words_list
 from tldextract import extract
 from nltk.stem import PorterStemmer
 import numpy as np
+from .settings import VIETNAMESE_STOPWORDS_DASH, MERGE_CRAWLED_DATA_PATH, GG_SEARCH_TOPICS
 
 def detect_lang(text):
     try:
@@ -95,17 +96,17 @@ if __name__=="__main__":
     # df.to_csv("gg_search_lang.csv", index=False)
 
 
-    stopwords = get_stop_words_list('/home/vudat1710/Works/hostname_topic/vietnamese_stopwords_dash.txt')
+    stopwords = get_stop_words_list(VIETNAMESE_STOPWORDS_DASH)
     nlp = spacy.load('en_core_web_sm')
     tr_en = TextRank4KeywordEN(nlp, ngrams=1, window_size=5, num_keywords=5)
     tr_vn = TextRank4KeywordVN(stopwords, ngrams=1, window_size=4, num_keywords=7, use_vncorenlp=True)
-    df = pd.read_csv("/home/vudat1710/Works/hostname_topic/data/merge_crawled_data.csv")
+    df = pd.read_csv(MERGE_CRAWLED_DATA_PATH)
     df["text_topics"] = df.apply(lambda x: get_topics(x.merged_text, x.desc_lang, tr_en, tr_vn, x.keyword, x.description), axis=1)
     df["web_title_topics"] = df.apply(lambda x: get_topics_web_title(x.web_title, x.web_title_lang, tr_en, tr_vn, x.keyword), axis=1)
     df.to_csv("gg_search_topics.csv", index=False)
     
     
-    df = pd.read_csv("/home/vudat1710/Works/gg_search_topics.csv", converters={'text_topics': ast.literal_eval, "web_title_topics": ast.literal_eval})
+    df = pd.read_csv(GG_SEARCH_TOPICS, converters={'text_topics': ast.literal_eval, "web_title_topics": ast.literal_eval})
     keywords = df["keyword"].unique().tolist()
     
     result = []

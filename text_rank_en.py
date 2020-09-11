@@ -2,6 +2,7 @@ import numpy as np
 import spacy, re
 from .utils import is_english, get_vocab, get_token_pairs, symmetrize, get_matrix, get_keywords
 from spacy.lang.en.stop_words import STOP_WORDS
+from .settings import ADDITIONAL_ENGLISH_STOPWORDS
 
 class TextRank4KeywordEN():
     """Extract keywords from text"""
@@ -16,10 +17,14 @@ class TextRank4KeywordEN():
         self.candidate_pos = candidate_pos
         self.num_keywords = num_keywords
         self.nlp = nlp_spacy
+        self.additional_stopwords = []
+        with open(ADDITIONAL_ENGLISH_STOPWORDS, "r") as f:
+            for line in f.readlines():
+                self.additional_stopwords.append(line.strip())
     
     def set_stopwords(self, stopwords):  
         """Set stop words"""
-        stopwords.extend(["right", "left", "tv", "console", "pc", "users", "web", "js", "vietnam", "url", "-", "password", "forgot", "login", "|", "policy", "privacy", "terms", "c", "d", "hoi","email", "mail", "website", "user", "sign", "tomorrow", "day", "today", "yesterday", "nam", "javascript"])
+        stopwords.extend(self.additional_stopwords)
         for word in STOP_WORDS.union(set(stopwords)):
             lexeme = self.nlp.vocab[word]
             lexeme.is_stop = True

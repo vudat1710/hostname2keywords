@@ -5,6 +5,7 @@ import re
 from langdetect import detect
 from vncorenlp import VnCoreNLP
 from string import punctuation
+from .settings import VIETNAMESE_STOPWORDS_DASH, VNCORENLP_JAR_PATH
 
 class TextRank4KeywordVN():
     """Extract keywords from text"""
@@ -21,7 +22,7 @@ class TextRank4KeywordVN():
         self.stopwords = stopwords
         self.use_vncorenlp = use_vncorenlp
         if self.use_vncorenlp:
-            self.annotator = VnCoreNLP("/home/vudat1710/Downloads/VnCoreNLP/VnCoreNLP-1.1.1.jar", annotators="wseg,pos", max_heap_size='-Xmx2g')
+            self.annotator = VnCoreNLP(VNCORENLP_JAR_PATH, annotators="wseg,pos", max_heap_size='-Xmx2g')
     
     # tokenizing, filtering stopwords for sentence
     def filtering_sentence(self, sent, stopwords, keyword, lower=False):
@@ -117,8 +118,8 @@ class TextRank4KeywordVN():
         return get_keywords(self.node_weight, self.num_keywords)
 
 if __name__=="__main__":
-    stopwords = get_stop_words_list('/home/vudat1710/Works/hostname_topic/vietnamese_stopwords_dash.txt')
-    text = "Trình duyệt Cốc Cốc, lướt web theo phong cách Việt"
-    keyword = "coccoc"
+    stopwords = get_stop_words_list(VIETNAMESE_STOPWORDS_DASH)
+    text = "Tạo một tài khoản hoặc đăng nhập Instagram - Một cách đơn giản, thú vị và sáng tạo để ghi lại, chỉnh sửa và chia sẻ ảnh, video và tin nhắn với bạn bè và gia ..."
+    keyword = "instagram"
     tr4wvn = TextRank4KeywordVN(stopwords, ngrams=1, window_size=5, num_keywords=3)
     print(tr4wvn.analyze(text, keyword, lower=True))

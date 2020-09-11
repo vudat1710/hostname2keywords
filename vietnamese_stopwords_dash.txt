@@ -2038,3 +2038,13 @@ ngành
 khu_vực
 xã
 hồ_chí_minh
+thể_loại
+ngôn_ngữ
+english
+spanish
+cổng
+tp
+chi_nhánh
+chương_trình
+tài_khoản
+tốc_độ
