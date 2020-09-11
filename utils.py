@@ -66,3 +66,17 @@ def get_matrix(vocab, token_pairs):
 def get_keywords(node_weight, num_keywords):
     """Print top number keywords"""
     return [k[0] for k in sorted(node_weight.items(), key=lambda t: t[1], reverse=True)[0:num_keywords]]
+
+
+def merge_results():
+    df1 = pd.read_csv("res_topics.csv", converters={"en": ast.literal_eval, "vi": ast.literal_eval})
+    df2 = pd.read_csv("res_topics_web_title.csv", converters={"en": ast.literal_eval, "vi": ast.literal_eval})
+    df2 = df2.rename(columns={"en": "en_title"})
+    df2 = df2.rename(columns={"vi": "vi_title"})
+    df = pd.concat([df1, df2["en_title"], df2["vi_title"]], axis=1)
+    df["en"] = df["en"] + df["en_title"]
+    df["vi"] = df["vi"] + df["vi_title"]
+    df["en"] = df["en"].apply(lambda x: list(set(x)))
+    df["vi"] = df["vi"].apply(lambda x: list(set(x)))
+    df = df.drop(["en_title", "vi_title"], axis=1)
+    df.to_csv("final_keywords.csv", index=False)
