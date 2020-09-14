@@ -1,323 +1,458 @@
 keyword,en,vi
 10000track,"['vietnamese', 'portuguese']",[]
-24h,[],"['bóng_đá', 'thể_thao', 'tin_tức']"
-5play,"['apps', 'android']",[]
-abay,[],"['giá', 'văn_phòng', 'máy_bay']"
+24h,[],"['bóng_đá', 'tin_tức', 'thể_thao']"
+5play,"['android', 'apps']",[]
+aarki,"['platform', 'optimization']",[]
+abay,[],"['máy_bay', 'giá']"
 acb,[],"['thương_mại', 'ngân_hàng']"
-accountkit,"['phone', 'apps', 'kit']",[]
-accuweather,"['weather', 'forecast']",[]
-aihelp,"['experiences', 'customer', 'service', 'conversations']",[]
-akamaized,"['delivery', 'content', 'network', 'provider']","['mạng_lưới', 'công_ty', 'nội_dung']"
-amap,"['approach', 'monitoring', 'assessment']",[]
-amazonaws,"['product', 'amazon', 'computing', 'authentication', 'services']","['dịch_vụ', 'mây', 'điện_toán']"
-amberweather,"['station', 'weather', 'forecast']",[]
-ampproject,"['google', 'source', 'html', 'project', 'validator', 'amp']",[]
-amv,[],"['cổ_phần', 'y_tế', 'công_ty', 'tập_đoàn']"
-aniview,"['video', 'advertising', 'ad', 'server']",[]
-anninhthudo,[],"['toà_soạn', 'quốc', 'thủ_đô', 'vũ']"
-antinco,[],"['khoá', 'trường', 'sinh_viên']"
-ants,"['advertising', 'ad', 'order', 'exchange', 'software', 'technology']",[]
+accountkit,"['phone', 'kit', 'apps']",[]
+accuweather,"['forecasting', 'weather', 'forecast']",[]
+agribank,[],"['thẻ', 'nông_nghiệp', 'dịch_vụ', 'nhân_viên']"
+agribankemobilebanking,[],"['nội_dung', 'dịch_vụ', 'ngân_hàng']"
+ah,"['join', 'rank', 'entertainment', 'arts']",[]
+aihelp,"['experiences', 'service', 'conversations', 'customer']",[]
+akamai,"['security', 'software', 'performance', 'service', 'network', 'provider']","['số_lượng', 'hướng', 'bản_sao']"
+akamaized,"['delivery', 'provider', 'content', 'network']",['nội_dung']
+alipayobjects,"['solution', 'data', 'group', 'partners']",[]
+aliyun,"['company', 'verification', 'subsidiary', 'account']",[]
+amap,"['assessment', 'approach', 'monitoring']",[]
+amazon,"['deals', 'services', 'io2', 'market', 'electronics', 'ebs', 'work', 'areas']","['doanh_nghiệp', 'lợi_nhuận', 'chủ_sở_hữu']"
+amazonaws,"['computing', 'authentication', 'product', 'services', 'amazon']","['dịch_vụ', 'điện_toán', 'mây']"
+amberweather,"['forecast', 'weather', 'station']",[]
+amplitude,"['product', 'variable', 'products', 'measure', 'platform', 'mobile']",[]
+ampproject,"['html', 'project', 'source', 'google', 'validator']",[]
+amv,[],"['cổ_phần', 'tập_đoàn', 'dược_phẩm']"
+android,"['platform', 'app', 'tools']",['cửa_hàng']
+aniview,"['advertising', 'video', 'ad', 'server']",[]
+anninhthudo,[],"['quốc', 'lý', 'vũ', 'thủ_đô']"
+antinco,[],"['trường', 'sinh_viên', 'khoá']"
+ants,"['technology', 'order', 'ad', 'software', 'advertising', 'exchange']",[]
 appcenter,"['app', 'android']",[]
-appier,"['enterprises', 'platforms']",[]
-applovin,"['world', 'marketing', 'company', 'people', 'technology', 'platform']",[]
-appsflyer,"['approach', 'data', 'platform', 'analytics']",[]
-apptimize,"['data', 'management', 'ios']",[]
-avast,[],"['phần_mềm', 'máy_tính', 'giao_diện']"
-azureedge,"['amp', 'player', 'media']",[]
-b52,[],"['đại_chiến', 'không_lực', 'máy_bay']"
+appier,"['platforms', 'enterprises']",[]
+apple,"['ipad', 'iphone']","['tổng', 'kỹ_sư', 'chủ_sở_hữu']"
+applovin,"['company', 'world', 'technology', 'marketing', 'people', 'platform']",[]
+appnews24h,[],['ứng_dụng']
+appsflyer,"['platform', 'data', 'approach', 'analytics']",[]
+apptimize,"['ios', 'data', 'management']",[]
+atomex,"['bike', 'india', 'swap', 'exchange', 'wallet']",[]
+avast,[],"['giao_diện', 'phần_mềm', 'máy_tính']"
+axonify,"['frontline', 'needs', 'training']",[]
+azureedge,"['player', 'amp']",[]
+b52,[],"['đại_chiến', 'máy_bay', 'không_lực']"
 bacgiang,[],['tỉnh']
-baodatviet,[],"['xã_hội', 'đất', 'tin_tức', 'pháp_luật', 'báo']"
-baodauthau,[],"['văn_bản', 'doanh_nghiệp', 'tài_chính', 'báo']"
-baohaiduong,[],"['thời_sự', 'tin_tức']"
-baomoi,[],"['tin_tức', 'báo_điện_tử']"
-baoquangninh,[],"['cơ_sở_hạ_tầng', 'quảng_ninh', 'điện_tử']"
-baotintuc,[],"['tin_tức', 'nhà_nước', 'pháp_luật', 'kinh_tế']"
-batdongsan,[],"['nhà_đất', 'bất_động_sản']"
-bentleymotors,"['cars', 'motors', 'car']","['nhân_viên', 'công_ty', 'ô_tô']"
-bidswitch,"['services', 'ecosystem', 'infrastructure']",[]
-bienphong,[],"['biên_phòng', 'bộ_tư_lệnh']"
-bkav,"['mobile', 'corporation', 'tax', 'smartphone']","['việt_nam', 'phần_mềm']"
-bluezone,[],"['thông_tin', 'y_tế', 'truyền_thông']"
-bongda,[],['bóng_đá']
-bongdaplus,[],"['nhận_định', 'lịch', 'tạp_chí', 'kết_quả', 'báo']"
-bossluxury,[],"['đồ', 'cửa_hàng']"
-branch,"['experiences', 'technology', 'platform', 'services', 'journey', 'links']",[]
-braze,"['experiences', 'offices', 'platform', 'city']",[]
-bsc,[],"['khách_hàng', 'dịch_vụ', 'công_ty', 'nhu_cầu']"
-bugsense,"['performance', 'metrics', 'quality']",[]
-cafef,[],"['thông_tin', 'kinh_tế', 'tài_chính', 'chứng_khoán']"
+baidu,"['products', 'services']","['tổng', 'vốn', 'chủ_sở_hữu']"
+baodatviet,[],"['pháp_luật', 'báo', 'tin_tức', 'xã_hội', 'đất']"
+baodauthau,[],"['doanh_nghiệp', 'văn_bản', 'tài_chính', 'báo']"
+baohaiduong,[],"['tin_tức', 'thông_tin']"
+baomoi,[],"['báo_điện_tử', 'tin_tức']"
+baoquangninh,[],"['quảng_ninh', 'điện_tử', 'cơ_sở_hạ_tầng']"
+baotintuc,[],"['nhà_nước', 'pháp_luật', 'thời_sự', 'kinh_tế']"
+batdongsan,[],['nhà_đất']
+be,[],"['xe_máy', 'dây', 'xe_hơi', 'ứng_dụng']"
+bentleymotors,"['car', 'cars', 'motors']","['ô_tô', 'xe_hơi', 'tính_năng']"
+beowulfchain,"['people', 'singapore', 'robinson']",[]
+bepthaiha,[],"['thái_hà', 'thiết_bị', 'nhà_bếp', 'bếp', 'vòi']"
+bidswitch,"['infrastructure', 'ecosystem', 'services']",[]
+bienphong,[],"['bộ_tư_lệnh', 'biên_phòng']"
+bing,"['business', 'action', 'listing']",['chủ_sở_hữu']
+bizfly,[],"['giải_pháp', 'công_nghệ', 'dịch_vụ', 'phần_mềm']"
+bkav,"['tax', 'corporation', 'smartphone', 'mobile']","['việt_nam', 'phần_mềm']"
+bluekai,"['platform', 'browser', 'offline', 'internet']",[]
+bluezone,[],"['y_tế', 'truyền_thông', 'thông_tin']"
+bongda,[],"['bóng_đá', 'lịch']"
+bongdaplus,[],"['tạp_chí', 'nhận_định', 'báo', 'lịch', 'kết_quả']"
+bongdaso,[],['bóng_đá']
+bossluxury,[],"['cửa_hàng', 'đồ']"
+branch,"['experiences', 'cost', 'links', 'service', 'journey', 'platform']",[]
+braze,"['platform', 'experiences', 'offices', 'city']",[]
+bsc,[],"['nhu_cầu', 'dịch_vụ', 'ngân_hàng']"
+bugsense,"['metrics', 'quality', 'performance']",[]
+cafef,[],"['tài_chính', 'kinh_tế', 'chứng_khoán', 'thông_tin']"
 camera360,"['store', 'application']",[]
-cangvuhaiphong,['maritime'],"['tàu', 'đường_dây_nóng', 'phương_tiện']"
-car-matrix,"['vietnamese', 'app', 'portuguese', 'smartphone']",[]
+cangvuhaiphong,['maritime'],"['tàu', 'phương_tiện', 'đường_dây_nóng']"
+car-matrix,"['vietnamese', 'portuguese', 'smartphone', 'app']",[]
+carback,[],"['chuyến', 'phường', 'xe_khách', 'từ_liêm']"
 caresoft,"['cloud', 'service']",['tổng_đài']
 casalemedia,"['advertising', 'index']",[]
-cdc,"['prevention', 'disease', 'health', 'safety', 'security']","['trụ_sở', 'nhân_viên', 'ngân_quỹ']"
-cenhomes,[],"['dự_án', 'chung_cư', 'bất_động_sản']"
-chartbeat,"['insights', 'engagement', 'content', 'analytics']",[]
-chotot,[],"['tphcm', 'đường_dây_nóng', 'chợ', 'doanh_nghiệp']"
-cloudflare,"['system', 'performance', 'time', 'delivery', 'services', 'security', 'protection']",['hoa_kỳ']
-cloudmosa,"['mobile', 'technology', 'world', 'cloud']",[]
-cnnd,"['diving', 'project', 'cooperation']",[]
-coccoc,[],"['trình_duyệt', 'hiệu_lực']"
-coloros,"['os', 'android']","['danh_sách', 'công_cụ', 'dịch_vụ']"
+cdc,"['disease', 'security', 'prevention', 'health', 'safety']","['số', 'tiền', 'giá']"
+cenhomes,[],"['chung_cư', 'bất_động_sản', 'căn_hộ']"
+chartbeat,"['engagement', 'insights', 'analytics', 'content']",[]
+chotot,[],"['doanh_nghiệp', 'chợ', 'đường_dây_nóng', 'tphcm']"
+clickworker,"['tasks', 'project', 'surveys', 'services', 'management', 'research']",[]
+cloudflare,"['delivery', 'security', 'services', 'protection', 'performance', 'time', 'system']",['hoa_kỳ']
+cloudlinks,"['performance', 'services', 'products', 'service', 'blog']",[]
+cloudmosa,"['cloud', 'world', 'technology', 'mobile']",[]
+cnnd,"['project', 'diving', 'cooperation']",[]
+coccoc,[],"['hiệu_lực', 'trình_duyệt']"
+coloros,"['os', 'android']","['danh_sách', 'dịch_vụ', 'công_cụ']"
 colossusssp,"['address', 'email']",[]
 congan,[],"['thành_phố', 'trật_tự', 'công_an']"
 congly,[],"['pháp_luật', 'báo']"
+congnghesotoancau,[],"['địa_chỉ', 'vinh', 'hệ_thống', 'hà_nội']"
 coocent,[],[]
 cootek,"['applications', 'apps']",[]
-creative,"['america', 'asia', 'headsets', 'products', 'headphones', 'speakers', 'technology']",[]
-criteo,"['advertising', 'business', 'internet', 'advertisements', 'technology']",[]
-cukcuk,"['tablets', 'devices']","['phần_mềm', 'thiết_bị', 'quán', 'nhà_hàng']"
-dable,"['personalization', 'content', 'platform']","['hệ_thống', 'công_nghệ', 'dữ_liệu']"
+cpmstar,"['platform', 'advertising', 'solution', 'network']",[]
+creative,"['asia', 'technology', 'america', 'speakers', 'headsets', 'headphones', 'products']",[]
+criteo,"['technology', 'advertisements', 'advertising', 'business', 'internet']",[]
+cukcuk,"['tablets', 'devices']","['thiết_bị', 'nhà_hàng', 'phần_mềm', 'quán']"
+dable,"['platform', 'personalization', 'content']","['công_nghệ', 'dữ_liệu', 'hệ_thống']"
 dahuap2p,[],"['công_nghệ', 'thiết_bị', 'điện_toán']"
-dantri,[],"['thông_tin', 'tin_tức', 'báo', 'dân_trí']"
+dantri,[],"['dân_trí', 'báo', 'tin_tức', 'thông_tin']"
 demdex,"['audience', 'manager']",['thông_tin']
-diendandatdai,[],"['đất_đai', 'nhà_đất', 'bất_động_sản']"
-dmca,"['states', 'law', 'services', 'act', 'protection']",[]
-dms,[],"['hệ_thống', 'phần_mềm', 'thông_tin']"
-docbao,[],"['tin_tức', 'báo', 'báo_điện_tử']"
-docbao24h,[],"['tin_tức', 'báo']"
+diendandatdai,[],"['đất_đai', 'bất_động_sản', 'nhà_đất']"
+digitru,"['individuals', 'media', 'bloggers']",[]
+dit69,[],"['phim', 'công_cụ']"
+dmca,"['states', 'services', 'act', 'protection', 'law']",[]
+dms,[],"['phần_mềm', 'hệ_thống', 'thông_tin']"
+docbao,[],"['báo_điện_tử', 'báo', 'tin_tức']"
+docbao24h,[],"['báo', 'tin_tức']"
+doisongphapluat,[],"['pháp_luật', 'báo', 'tin_tức', 'đời_sống']"
 doubleverify,"['brand', 'brands', 'world']",[]
-dreamnews,"['cinema', 'entertainment', 'bollywood', 'dream']",[]
-duapps,"['family', 'ad', 'friends', 'platform', 'solution']",[]
-dugout,"['barca', 'publishers', 'container', 'football', 'boat', 'bayern', 'brands']",[]
-e-planning,"['publishers', 'planning', 'advertisers']",[]
-eclick,['way'],"['hệ_thống', 'tổng_thể', 'giải_pháp']"
-enternews,[],"['diễn_đàn', 'điện_tử', 'doanh_nghiệp']"
-eset,"['malware', 'businesses', 'individuals', 'security']","['phần_mềm', 'công_ty']"
+dreamnews,"['bollywood', 'cinema', 'entertainment', 'dream']",[]
+duapps,"['platform', 'friends', 'solution', 'family']",[]
+dugout,"['publishers', 'boat', 'barca', 'football', 'brands', 'container', 'bayern']",[]
+e-planning,"['advertisers', 'publishers', 'planning']",[]
+eclick,['way'],"['tổng_thể', 'giải_pháp', 'hệ_thống']"
+ehawk,"['spammers', 'phishers', 'smartphone', 'security', 'cameras', 'video', 'internet']",[]
+enternews,[],"['doanh_nghiệp', 'diễn_đàn', 'điện_tử']"
+eofwar,"['seconds', 'browser', 'era', 'war', 'year', 'app', 'google']",[]
+eset,"['businesses', 'individuals', 'malware', 'security']",['phần_mềm']
 eva,[],['mẹ']
-everesttech,"['technology', 'solutions']",[]
-evernote,['app'],[]
-evnfc,[],"['hệ_thống', 'chính_sách']"
-ezvizlife,"['lenses', 'life', 'imaging', 'homes', 'security']",[]
-facebook,"['friends', 'photos']","['bạn_bè', 'ảnh']"
-fitbit,"['site', 'activity', 'exercise', 'fitness']",[]
+everesttech,"['solutions', 'technology']",[]
+evernote,['notes'],[]
+everviz,"['data', 'maps']",[]
+evnfc,[],"['chính_sách', 'hệ_thống']"
+exoclick,"['company', 'ceo', 'ad', 'geo', 'network']",[]
+ezvizlife,"['life', 'security', 'lenses', 'imaging', 'homes']",[]
+facebook,"['friends', 'photos']","['ảnh', 'bạn_bè']"
+fastgo,[],"['thẻ', 'chuyến', 'dịch_vụ', 'giấy_phép']"
+fb,"['friends', 'facebook', 'family']","['danh_sách', 'thành_viên', 'thông_tin']"
+fireant,[],"['giải_pháp', 'nhà_đầu_tư', 'chứng_khoán', 'công_cụ']"
+fitbit,"['exercise', 'fitness', 'site', 'activity']",[]
+flipboard,"['palo', 'california', 'world', 'stories']",[]
+flix,"['episodes', 'ethics', 'drama', 'advertising', 'title', 'movies', 'netflix']",['nội_dung']
 flurry,"['product', 'app', 'platform', 'mobile']",[]
 freefiremobile,"['phone', 'browsing']",[]
-galle,[],"['đồng_hồ', 'thuỵ_sỹ', 'nhật_bản', 'nhật']"
-garena,['account'],"['nền_tảng', 'loại_hình', 'trò_chơi']"
-gemius,"['decisions', 'knowledge', 'tools', 'company']",[]
-genieessp,"['advertising', 'email', 'venture', 'revenue', 'information', 'future']",[]
-getpocket,"['pocket', 'articles', 'reading']",[]
-giphy,"['stickers', 'gifs', 'videos']",[]
+g-v,"['investment', 'venture']","['xe_máy', 'trời', 'xe_hơi']"
+gaigu,[],"['gái', 'truyện', 'hình_ảnh', 'gái_gọi', 'phim_ảnh']"
+gaixinh18,[],"['ảnh', 'gái', 'hình_ảnh']"
+galle,[],"['nhật_bản', 'đồng_hồ', 'thuỵ_sỹ', 'nhật']"
+gameanalytics,"['player', 'analytics', 'game', 'tracking']",[]
+garena,['center'],"['trò_chơi', 'sản_phẩm', 'loại_hình']"
+garenanow,"['data', 'information']","['huyền_thoại', 'đấu_trường', 'danh_vọng']"
+gemius,"['company', 'knowledge', 'tools', 'decisions']",[]
+genieessp,"['future', 'advertising', 'email', 'revenue', 'venture', 'information']",[]
+getpocket,"['articles', 'pocket', 'reading']",[]
+getui,[],[]
+giphy,"['gifs', 'stickers', 'videos', 'gif']",[]
+glpals,['standard'],[]
 golfervn,[],[]
-gotinder,"['facebook', 'systems', 'controls', 'google']",[]
-grab,[],"['dịch_vụ', 'xe_hơi', 'xe_máy']"
+google,"['analytics', 'videos', 'marketing', 'images', 'email', 'websites']","['giải_pháp', 'dịch_vụ', 'thông_tin']"
+gotinder,"['controls', 'google', 'systems', 'facebook']",[]
+grab,[],"['xe_máy', 'xe_hơi', 'dịch_vụ']"
 growingio,[],[]
 habby,"['anniversary', 'game', 'team']",[]
-handcent,"['sms', 'ecard']",[]
+handcent,"['ecard', 'sms']",[]
+hicloud,"['data', 'information']",[]
 hik-connect,['app'],[]
-hmu,[],"['huyện', 'đài', 'tỉnh']"
+hmu,[],"['đài', 'huyện', 'tỉnh']"
 hn-ams,[],['học_sinh']
 hocvienquany,[],['quân_y']
 homecredit,[],"['lĩnh_vực', 'tài_chính', 'tập_đoàn']"
-hopphat,"['home', 'investment', 'consultancy']","['máy_lạnh', 'daikin', 'điều_hoà']"
-houzz,"['renovation', 'design', 'remodeling', 'decor', 'ideas']",[]
-iabtechlab,"['tech', 'technology']",[]
-icloud,"['videos', 'photos']",['sách_trắng']
-ikeepapps,"['preview', 'apps', 'scan']","['dữ_liệu', 'cực', 'nền_tảng']"
-imgur,"['destination', 'internet', 'entertainment', 'host', 'community', 'way']",['nhân_vật']
-incognitonetwork,"['device', 'blocker', 'broadband', 'vpn', 'cookie']",[]
-infofinance,[],"['thông_tin', 'doanh_nghiệp', 'tài_chính']"
-inmobi,"['data', 'technology', 'connections', 'platform']",[]
+hopphat,"['consultancy', 'investment', 'home']","['daikin', 'nội_thất', 'máy_lạnh', 'điều_hoà']"
+hotjar,"['analytics', 'tools', 'use', 'visitors', 'customers']",[]
+houzz,"['design', 'renovation', 'decor', 'remodeling', 'ideas']",[]
+iabtechlab,"['technology', 'tech']",[]
+icloud,"['videos', 'photos']",[]
+ico,"['sector', 'offerings', 'site', 'survey', 'use', 'type', 'home', 'form', 'exchange']",[]
+igamecj,"['ios', 'browser']",[]
+igg,"['branches', 'headquarters', 'empire', 'codex', 'p2p', 'games', 'portal']",[]
+ikeepapps,"['scan', 'preview', 'apps']","['dữ_liệu', 'miễn', 'cực']"
+imgur,"['magic', 'service', 'entertainment', 'destination', 'way', 'community', 'internet']",['nhân_vật']
+imotorbike,"['helmets', 'sellers', 'jackets', 'accessories', 'parts', 'buyers']","['giá', 'thương_mại', 'thị_trường']"
+incognitonetwork,"['device', 'vpn', 'cookie', 'blocker', 'broadband']",[]
+infofinance,[],"['doanh_nghiệp', 'tài_chính', 'thông_tin']"
+inmobi,"['platform', 'connections', 'technology', 'data']",[]
 inner-active,[],['thông_tin']
-innity,"['audience', 'advertising', 'marketing']",[]
+innity,"['advertising', 'audience', 'marketing']",[]
 insstoreweb,"['videos', 'photos']",[]
-instagram,[],"['ban_đầu', 'bạn_bè', 'ảnh']"
-intsig,"['business', 'ios', 'companies', 'android', 'technology', 'information']",[]
-ip-api,"['ip', 'geolocation', 'api']",[]
-jivox,"['ads', 'ai', 'message']",[]
-jsdelivr,"['projects', 'source', 'github', 'cdn', 'wordpress']",[]
-jwplayer,"['video', 'html5', 'jw', 'platform']",[]
-kakao,"['items', 'friends', 'store', 'talk']",['thông_tin']
-kbcloud,"['knowledgebase', 'base', 'device', 'knowledge', 'cloud', 'software', 'backup', 'agent', 'partner']",[]
-kenh14,[],"['xã_hội', 'phim_ảnh', 'tin_tức', 'kênh', 'thời_trang']"
-ketqua,[],"['cầu', 'xổ_số', 'nam']"
+instabug,"['chats', 'surveys', 'crash', 'time', 'customers', 'apps']",[]
+instagram,[],['bạn_bè']
+intsig,"['technology', 'companies', 'business', 'ios', 'android', 'information']",[]
+ip-api,"['ip', 'api']",[]
+ipstatp,[],[]
+javhdhay,[],"['phim', 'loạn_luân']"
+javlibrary,"['opinions', 'sex', 'videos', 'views', 'porno', 'collection', 'porn', 'providers', 'adult']",[]
+jivox,"['message', 'ai', 'ads']",[]
+jquery,"['interface', 'manipulation', 'library', 'interactions', 'traversal']",['hướng']
+jsdelivr,"['projects', 'source', 'cdn', 'wordpress', 'github']",[]
+jtexpress,"['mosaic', 'package']","['express', 'hàng', 'việt_nam', 'lịch', 'quý_khách']"
+jwplayer,"['jw', 'video', 'platform', 'html5']",[]
+jx1efunvn,[],"['thông_tin', 'hệ_thống', 'giấy_phép']"
+kakao,"['friends', 'store', 'items', 'talk']",['thông_tin']
+kbcloud,"['knowledgebase', 'device', 'base', 'agent', 'knowledge', 'software', 'backup', 'cloud', 'partner']",[]
+kenh14,[],"['thời_trang', 'phim_ảnh', 'xã_hội']"
+ketqua,[],"['xổ_số', 'nam', 'cầu']"
+ketquaveso,[],"['xổ_số', 'sổ', 'toàn_quốc', 'điện_toán']"
 kiagiaiphong,[],[]
-king,"['games', 'variety', 'contexts', 'players']",['thực_đơn']
-kisvn,[],"['cổ_phần', 'khách_hàng', 'công_ty', 'chứng_khoán']"
-ksmobile,"['peninsula', 'plaza']",[]
-ku711,[],"['thể_thao', 'thương_hiệu']"
-laban,[],"['công_cụ', 'danh_bạ']"
-laodong,[],"['văn_hoá', 'lao_động', 'kinh_tế', 'chính_trị']"
-lastcallemail,"['questions', 'email', 'emails', 'code']",[]
+king,"['players', 'contexts', 'variety', 'games']",['thực_đơn']
+kisvn,[],"['chứng_khoán', 'cổ_phần', 'tầng', 'nguyễn_thái_bình']"
+kompa,"['sars', 'monitoring']","['quần_đảo', 'hoàng_sa', 'trường_sa']"
+ksmobile,"['plaza', 'peninsula']",[]
+ku711,[],"['thương_hiệu', 'thể_thao']"
+kynaforkids,[],"['toán', 'bố_mẹ', 'anh', 'trường_học']"
+laban,[],"['danh_bạ', 'công_cụ']"
+laodong,[],"['văn_hoá', 'chính_trị', 'lao_động', 'kinh_tế']"
+lastcallemail,"['questions', 'code', 'emails', 'email']",[]
 lentainform,[],[]
-lg,[],"['gia_dụng', 'điện_tử', 'thiết_bị']"
-lichngaytot,[],"['lịch', 'ngày', 'dương', 'niên']"
-life360,"['country', 'services', 'families', 'technology']",[]
-lijit,"['inc', 'domain']",[]
-linkedin,"['insights', 'share', 'knowledge', 'ideas']","['số_lượng', 'doanh_thu', 'số']"
-livechatinc,"['customer', 'livechat', 'chat', 'service']",[]
-loopme,"['brand', 'technology', 'analytics', 'advertising']",[]
+lg,[],"['thiết_bị', 'điện_tử', 'gia_dụng']"
+lichngaytot,[],"['dương', 'ngày', 'lịch', 'niên']"
+life360,"['technology', 'families', 'country', 'services']",[]
+liftoff,"['optimization', 'fever', 'marketing', 'app', 'drone', 'mobile']",[]
+lijit,"['domain', 'inc']",[]
+linhkienst,[],"['điện_tử', 'linh_kiện']"
+linkedin,"['insights', 'ideas', 'knowledge', 'share']","['doanh_thu', 'số_lượng', 'hội_đồng_quản_trị']"
+livechatinc,"['service', 'customer', 'livechat', 'chat']",[]
+lon88,[],"['phim', 'sex', 'loạn_luân']"
+loopme,"['brand', 'advertising', 'technology', 'analytics']",[]
+lscreenc,['story'],[]
 luatvietnam,[],"['luật', 'pháp_luật', 'điều_luật']"
-lumi,[],"['biệt_thự', 'chung_cư', 'thiết_bị']"
-machbird,"['interactive', 'publisher']",[]
-mapbox,"['location', 'applications', 'building', 'times']",[]
-mard,"['language', 'film']","['thông_tin', 'điện_tử']"
-masstel,[],"['thị_trường', 'giá', 'công_nghệ', 'thương_hiệu']"
+lumi,[],"['chung_cư', 'thiết_bị', 'biệt_thự']"
+machbird,"['publisher', 'interactive']",[]
+mapbox,"['building', 'location', 'applications', 'times']",[]
+mard,"['film', 'language']","['điện_tử', 'thông_tin']"
+masstel,[],"['thương_hiệu', 'giá', 'thị_trường']"
 mbbank,[],"['quân_đội', 'ngân_hàng']"
-mbs,"['brokerage', 'banking']",[]
-mcafee,"['solutions', 'antivirus', 'security', 'endpoint']","['thảo', 'công_ty', 'mẹ']"
-mediarithmics,"['approach', 'marketing', 'platform']",[]
-mediaz,['agency'],['dịch_vụ']
-mepuzz,[],"['giải_pháp', 'nền_tảng']"
-mgid,"['advertising', 'publishers', 'advertisers']",['tiền']
+mbs,"['banking', 'brokerage']",[]
+mcafee,"['solutions', 'antivirus', 'endpoint', 'security']","['chiến_lược', 'độc_lập', 'mẹ']"
+mediarithmics,"['platform', 'approach', 'marketing']",[]
+mediaz,['marketing'],['dịch_vụ']
+mepuzz,[],['giải_pháp']
+mgid,"['advertisers', 'publishers', 'platform']",['tiền']
 mi,[],['điện_thoại']
-microsoftonline,"['software', 'dropbox', 'services', 'service']","['thông_tin', 'sự_cố', 'tình_huống']"
+microsoft,[],"['doanh_nghiệp', 'doanh_thu', 'chủ_sở_hữu']"
+microsoftonline,"['dropbox', 'software', 'service', 'services']","['sự_cố', 'tình_huống', 'thông_tin']"
+minhngoc,[],['minh']
 mipcm,"['video', 'software']",[]
-mixpanel,"['product', 'applications', 'mobile', 'communication', 'customers', 'analytics']",[]
-mnewsvn,[],"['xã_hội', 'đời_sống', 'gia_đình', 'thông_tin']"
-moh,"['clinics', 'ministry', 'promotion', 'health']","['thông_tin', 'y_tế', 'điện_tử']"
-monngonhomnay,[],"['hôm_nay', 'gỏi', 'hầm', 'cơm']"
-mopub,"['app', 'monetization', 'publishers']",[]
+miui,"['community', 'android', 'roms']","['nội_địa', 'trung_quốc', 'dịch_vụ']"
+mixpanel,"['analytics', 'product', 'customer', 'applications', 'communication', 'mobile']",[]
+mmk-news3,[],[]
+mnewsvn,[],"['thông_tin', 'đời_sống', 'xã_hội', 'gia_đình']"
+moh,"['promotion', 'clinics', 'health']","['điện_tử', 'y_tế', 'thông_tin']"
+momo,[],"['số', 'hình_ảnh', 'tin_tức', 'thông_tin']"
+monngonhomnay,[],"['cơm', 'hầm', 'gỏi']"
+mopub,"['monetization', 'publishers']",[]
 mox,"['chartered', 'world', 'generation']",[]
-mparticle,"['data', 'customer', 'platform', 'partners']",[]
-msb,"['aud', 'chf']","['thương_mại', 'cổ_phần', 'hàng_hải', 'ngân_hàng']"
-mujoy,"['games', 'time']",[]
+mparticle,"['platform', 'customer', 'data', 'partners']",[]
+msb,"['chf', 'aud']","['hàng_hải', 'cổ_phần', 'thương_mại', 'ngân_hàng']"
+mujoy,"['time', 'games']",[]
 muk8199,[],[]
-myclip,[],"['mạng', 'khách_hàng', 'dịch_vụ', 'phim']"
+mx2push,['notification'],[]
+myaqsh,"['android', 'iphone']",[]
+myclip,[],"['phim', 'mạng', 'dịch_vụ', 'xã_hội']"
+myhub,[],['hệ_thống']
+myqcloud,['cloud'],[]
+nanda,"['patients', 'knowledge', 'nurses', 'people', 'country', 'international']",[]
 nattepush,[],[]
-naver,"['culture', 'report']","['dịch_vụ', 'tin_tức', 'nền_tảng']"
-nbtv,[],"['ninh_bình', 'đài_phát_thanh', 'truyền_hình']"
+naver,"['report', 'culture']",['dịch_vụ']
+nbtv,[],"['truyền_hình', 'ninh_bình', 'đài_phát_thanh']"
+ndh,[],"['bất_động_sản', 'tài_chính', 'thị_trường']"
+nearme,"['platforms', 'care', 'health', 'people', 'item', 'apps']",[]
 netcoresmartech,"['personalization', 'automation']",[]
-netease,"['investor', 'technology', 'desktop', 'mobile', 'company', 'entertainment', 'services', 'relations']",[]
+netease,"['company', 'technology', 'services', 'entertainment', 'desktop', 'investor', 'relations', 'mobile']",[]
 nettruyen,[],"['truyện_tranh', 'truyện', 'thành_viên']"
-ngoisao,[],"['điện_ảnh', 'ca_nhạc', 'thời_trang', 'báo']"
-nhipcaudautu,[],"['tạp_chí', 'doanh_nghiệp', 'bất_động_sản', 'chứng_khoán']"
-nimo,"['live', 'streaming', 'platform']",[]
-nld,[],"['lao_động', 'báo']"
+nextmarketing,"['brand', 'experiences', 'marketing', 'inspiration']","['ô_tô', 'công_nghệ', 'xe_hơi']"
+nganluong,[],"['điện_tử', 'ví']"
+ngoisao,[],"['thời_trang', 'ca_nhạc', 'điện_ảnh', 'báo']"
+nhattao,[],['trạng_thái']
+nhipcaudautu,[],"['doanh_nghiệp', 'tạp_chí', 'bất_động_sản', 'chứng_khoán']"
+nimo,"['platform', 'streaming', 'live']",[]
+nld,[],['lao_động']
 nohu79,[],['hũ']
-noithattvat,[],"['giá', 'nhựa', 'nội_thất', 'giỏ', 'nội_ngoại']"
-ntp,"['data', 'network', 'time', 'latency', 'servers', 'ip', 'server']","['máy_tính', 'dữ_liệu', 'giao_thức']"
+noibaiconnect,[],"['tổng_đài', 'giá', 'bài', 'hà_nội', 'quận', 'nội']"
+noithathoaphat,[],['nội_thất']
+noithattvat,[],"['nội_thất', 'giá', 'nội_ngoại', 'nhựa', 'giỏ']"
+ntp,"['server', 'data', 'network', 'time', 'ip', 'latency']","['giao_thức', 'dữ_liệu', 'máy_tính']"
 oldrrb,[],[]
 omtrdc,"['aggregation', 'analysis']",[]
-onesignal,"['mobile', 'app', 'service']",[]
-opensignal,"['connectivity', 'mobile', 'insights', 'company', 'industry', 'analytics']",[]
-openx,"['advertising', 'software', 'technology', 'ad']",[]
-oppomobile,"['online', 'shop']","['điện_thoại_di_động', 'điện_thoại']"
-optimizely,"['product', 'marketing', 'delivery', 'technology', 'platform']",[]
+onesignal,"['service', 'app', 'mobile']",[]
+opensignal,"['company', 'analytics', 'connectivity', 'insights', 'industry', 'mobile']",[]
+openwebtorrent,"['bittorrent', 'upload', 'magnet', 'link']",[]
+openx,"['advertising', 'technology', 'ad', 'software']",[]
+oppomobile,"['shop', 'online']","['điện_thoại_di_động', 'điện_thoại']"
+optimizely,"['delivery', 'technology', 'product', 'marketing', 'platform']",[]
 oto-hui,[],"['công_nghệ', 'kỹ_thuật']"
-outbrain,"['pages', 'advertising', 'products', 'discovery', 'services']",[]
-playbuzz,"['trivia', 'minister', 'quizzes', 'israel']",[]
-plo,[],"['nhà_nước', 'pháp_luật', 'báo_điện_tử']"
-pubmatic,"['advertising', 'publishing', 'digital', 'company', 'technology']",[]
-pubnub,"['chat', 'communication', 'service', 'app', 'notifications', 'geolocation']",[]
-pushtimize,"['push', 'optimize']","['doanh_thu', 'quảng_cáo', 'nền_tảng']"
-pushwoosh,"['messages', 'notifications', 'service', 'notification']",[]
-qpic,"['bin', 'services', 'petroleum', 'al']",[]
-qq,"['phone', 'chat', 'video', 'service']",[]
+outbrain,"['services', 'advertising', 'products', 'pages', 'discovery']",[]
+patrospermit,[],[]
+pinterest,"['recipes', 'service', 'information', 'ideas']",[]
+playbuzz,"['israel', 'quizzes', 'minister', 'trivia']",[]
+plo,[],"['pháp_luật', 'báo_điện_tử', 'xã_hội']"
+polyfill,"['code', 'features', 'browser', 'browsers']",[]
+pubgmobile,"['tech', 'mobile']",[]
+pubmatic,"['publishing', 'company', 'technology', 'digital', 'advertising']",[]
+pubnative,"['platform', 'monetization']",[]
+pubnub,"['geolocation', 'service', 'app', 'communication', 'notifications', 'chat']",[]
+pushking,[],[]
+pushtimize,"['push', 'optimize']",['quảng_cáo']
+pushwoosh,"['service', 'notifications', 'messages', 'notification']",[]
+qdnd,[],"['quân_đội', 'quốc_phòng']"
+qop-news2,[],[]
+qpic,"['petroleum', 'al', 'bin', 'services']",[]
+qq,"['video', 'phone', 'service', 'chat']",[]
+qtbb6,['domain'],[]
 quantserve,[],['thông_tin']
-rakuten,"['cash', 'electronics', 'clothing', 'shop', 'inc', 'ceo']","['trụ_sở', 'công_ty', 'số']"
+rakuten,"['shop', 'inc', 'ceo', 'cash', 'clothing', 'electronics']","['số', 'tiếng', 'hội']"
 rayjump,"['monetization', 'marketing']",[]
-red88,[],"['tỷ_lệ', 'thể_thao', 'lô', 'bóng_đá', 'nhà_cái']"
-rubiconproject,"['firm', 'technology', 'buying', 'company']",[]
-samsungapps,"['store', 'purchases', 'apps', 'portal', 'samsung']","['thiết_bị', 'trò_chơi']"
-samsungcloud,"['windows', 'samsung']","['điện_thoại', 'máy_tính', 'dữ_liệu']"
-saygames,"['games', 'park', 'publisher', 'mobile', 'location']",[]
+red88,[],"['nhà_cái', 'tỷ_lệ', 'thể_thao', 'bóng_đá', 'lô']"
+reson8,"['enterprises', 'marketing', 'bangkok', 'time', 'singapore', 'notifications', 'customers', 'platform']",[]
+rubiconproject,"['company', 'firm', 'technology', 'buying']",[]
+samsung,"['stories', 'news']","['điện_thoại_di_động', 'thiết_bị', 'sản', 'gia_dụng']"
+samsungapps,"['purchases', 'store', 'app', 'samsung', 'portal', 'apps']","['trò_chơi', 'thiết_bị']"
+samsungcloud,"['samsung', 'windows']","['dữ_liệu', 'điện_thoại', 'máy_tính']"
+samsungknox,"['features', 'use', 'security', 'time', 'samsung', 'platform']","['giải_pháp', 'thiết_bị', 'tính_năng']"
+saygames,"['development', 'location', 'publisher', 'park', 'mobile']",[]
 scorecardresearch,"['page', 'products', 'scorecard', 'services']",[]
-sendo,[],"['giá', 'thời_trang', 'chợ']"
-sendpulse,"['marketing', 'notifications', 'platform', 'email']",[]
+sdkbox,"['fatigue', 'line', 'cure', 'games']",[]
+sendo,[],"['thời_trang', 'giá', 'chợ']"
+sendpulse,"['platform', 'notifications', 'email', 'marketing']",[]
+sentry,"['software', 'application', 'monitoring']",[]
 serving-sys,[],['thông_tin']
-shazam,"['song', 'music']","['dựng_phim', 'cốt_truyện', 'phim']"
-shopeemobile,"['inbox', 'query', 'insight']","['đồ', 'gia_dụng', 'điện_tử']"
-sinch,"['voice', 'sms', 'offices', 'service']",[]
-sjc,[],"['quảng_ngãi', 'quý_khách', 'địa_chỉ']"
-skydoor,[],"['thông_tin', 'địa_điểm', 'tin_tức']"
-soha,[],"['xã_hội', 'tin_tức', 'sự_kiện']"
-sohatv,[],"['xã_hội', 'tin_tức', 'sự_kiện']"
-solarbk,[],"['hoạt_động', 'mặt_trời', 'công_ty', 'năng_lượng', 'cấu_trúc']"
-soundcloud,"['sharing', 'podcasters', 'distribution', 'music']",[]
-spotify,"['music', 'songs']","['sắc', 'chủ_sở_hữu', 'công_nghiệp', 'thị_trường', 'đa_chiều']"
-spotxchange,"['ad', 'email', 'video', 'dashboard', 'content', 'username', 'platform']",[]
-ssa,"['security', 'benefits', 'administration']","['saigon', 'thương_hiệu', 'tập_đoàn']"
+shazam,"['song', 'music']","['phim', 'dựng_phim', 'cốt_truyện']"
+shopee,[],"['đồ', 'di_động', 'điện_tử', 'gia_dụng']"
+shopeemobile,"['query', 'insight', 'inbox']","['đồ', 'điện_tử', 'gia_dụng']"
+sigmastock,[],"['chứng_khoán', 'giá', 'hàng_hoá']"
+sinch,"['offices', 'service', 'voice', 'sms']",[]
+sjc,[],"['quý_khách', 'địa_chỉ', 'quảng_ngãi']"
+skydoor,[],"['địa_điểm', 'tin_tức', 'thông_tin']"
+slotuc,[],"['bóng_đá', 'việt_nam', 'nhà_cái']"
+snd,"['communicators', 'excellence', 'format', 'sound', 'media', 'communication']",[]
+snow,"['company', 'weather', 'forecast', 'resorts', 'corp', 'management', 'cloud', 'ski', 'mobile', 'application']",['hình']
+soha,[],"['tin_tức', 'xã_hội', 'sự_kiện']"
+sohatv,[],"['tin_tức', 'xã_hội', 'sự_kiện']"
+solarbk,[],"['năng_lượng', 'trọng_tâm', 'mặt_trời', 'cấu_trúc', 'bách_khoa']"
+soundcloud,"['podcasts', 'sharing', 'distribution', 'podcasters', 'music']",[]
+spotify,"['songs', 'music']","['thị_trường', 'sắc', 'công_nghiệp', 'chủ_sở_hữu', 'đa_chiều']"
+spotxchange,"['dashboard', 'ad', 'content', 'username', 'email', 'platform', 'video']",[]
+ssa,"['administration', 'benefits', 'security']","['tập_đoàn', 'thương_hiệu', 'saigon']"
 steepto,"['ads', 'banners']",[]
-stockprice,"['price', 'news']","['biểu_đồ', 'dữ_liệu', 'tính_năng']"
-suckhoedoisong,[],"['thông_tin', 'đời_sống', 'y_tế', 'sức_khoẻ']"
-sunvn,[],"['trò_chơi', 'tài', 'thẻ']"
-taboola,"['employees', 'advertising', 'content', 'company']",[]
+stockprice,"['price', 'news']","['dữ_liệu', 'biểu_đồ', 'tính_năng']"
+stringee,"['video', 'apis', 'sms']","['phím', 'điện_thoại', 'tính_năng']"
+suckhoedoisong,[],"['sức_khoẻ', 'y_tế', 'đời_sống', 'thông_tin']"
+sunvn,[],"['thẻ', 'trò_chơi', 'tài']"
+taboola,"['company', 'advertising', 'employees', 'content']",[]
 taimienphi,[],"['phần_mềm', 'máy_tính', 'thủ_thuật']"
-tainhaccho,[],"['nhạc', 'mạng', 'kho']"
-tamdiem247,[],"['thông_tin', 'tin_tức', 'tâm', 'báo']"
+tainhaccho,[],['nhạc']
+tamdiem247,[],"['tâm', 'báo', 'tin_tức', 'thông_tin']"
+taobao,[],"['mạng', 'trung_quốc', 'chủ_sở_hữu']"
+tapjoy,"['advertisers', 'advertising', 'apps']",[]
+tawk,"['chat', 'application']",[]
+tcbs,[],"['nhu_cầu', 'cổ_phần']"
+teamobi,[],"['trò_chơi', 'âm_nhạc', 'điệu']"
 techcombank,[],"['thương_mại', 'ngân_hàng']"
 teko,"['experiences', 'lives']",[]
-tencent,[],"['cổ_phần', 'công_ty', 'hữu_hạn']"
-tenjin,"['religion', 'data', 'deity', 'tools', 'products', 'services', 'platform']",[]
-tenor,"['gif', 'personality', 'keyboard']","['giọng', 'nốt', 'f']"
-thanhhoa,[],"['tỉnh', 'điện_tử']"
-thanhnien,[],"['xã_hội', 'thời_sự', 'tin_tức', 'thanh_niên', 'báo']"
+tencent,[],"['tấn', 'cổ_phần', 'tổng']"
+tenjin,"['tools', 'deity', 'religion', 'services', 'products', 'data', 'platform']",[]
+tenor,"['gifs', 'personality', 'keyboard', 'videos']","['f', 'giọng', 'nốt']"
+thanhhoa,[],"['điện_tử', 'tỉnh']"
+thanhnien,[],"['thời_sự', 'báo', 'tin_tức', 'xã_hội', 'thanh_niên', 'chính_trị']"
+thethao247,[],"['báo', 'bóng_đá', 'tin_tức', 'thể_thao']"
 thongtintuyensinh,[],['cao_đẳng']
-thutra,[],"['trà', 'người_yêu', 'thư', 'phú']"
-tienphong,[],"['tin_tức', 'tiền_phong', 'báo_điện_tử']"
-tiktok,[],"['ứng_dụng', 'sứ_mệnh', 'nền_tảng']"
+thutra,[],"['phú', 'người_yêu', 'trà', 'thư']"
+tienphong,[],"['tiền_phong', 'báo_điện_tử', 'tin_tức']"
+tiktok,[],"['ứng_dụng', 'sứ_mệnh']"
 timbantrai,"['browser', 'menu']","['bạn', 'bốn_phương', 'đồng_tính']"
-tinbanxe,[],"['xe_hơi', 'hình_ảnh', 'ô_tô']"
-tinhte,[],"['công_nghệ', 'thiết_bị', 'khoa_học']"
-tinmoi24,[],"['bóng_đá', 'thể_thao', 'tin_tức']"
-tintuc,[],"['xã_hội', 'thời_sự', 'kinh_tế', 'báo']"
-tokhaiyte,[],"['hệ_thống', 'y_tế', 'thông_tin']"
-top88,[],"['tài', 'hình_thức', 'nhà_cái']"
-trafficfactory,"['traffic', 'network']",['đường_dẫn']
-traveloka,"['hotels', 'packages', 'flights']","['phòng', 'khách_sạn', 'máy_bay']"
+tinbanxe,[],"['ô_tô', 'xe_hơi', 'hình_ảnh']"
+tinhte,[],"['khoa_học', 'công_nghệ', 'thiết_bị']"
+tinmoi24,[],"['bóng_đá', 'tin_tức', 'thể_thao']"
+tintuc,[],"['pháp_luật', 'kinh_tế', 'xã_hội', 'báo']"
+tokhaiyte,[],"['y_tế', 'hệ_thống', 'thông_tin']"
+top88,[],"['nhà_cái', 'hình_thức', 'tài']"
+toutiao,"['content', 'information']",[]
+trafficfactory,"['traffic', 'network']",['quy']
+traveloka,"['packages', 'flights', 'hotels']","['phòng', 'khách_sạn', 'máy_bay']"
 trendingnow,"['forecasting', 'trend', 'analysis']",[]
-truecaller,"['spam', 'app', 'people']",[]
-trvdp,"['cgi', 'apache', 'index']",[]
-tubecup,"['video', 'porn', 'sex']",[]
-tuoitre,[],"['tuôi', 'kinh_tế', 'giáo_dục', 'chính_trị']"
-tut,"['department', 'university']","['huyện', 'diện_tích', 'dân_số']"
-twitter,[],"['trụ_sở', 'nhân_viên', 'văn_phòng']"
-ucweb,"['browser', 'mobile', 'storage', 'gb', 'services']",['khách_hàng']
+truecaller,"['people', 'spam', 'app']",[]
+trvdp,"['apache', 'index', 'cgi']",[]
+tubecup,"['video', 'porn', 'videos']",[]
+tuoitre,[],"['tuôi', 'chính_trị', 'giáo_dục', 'kinh_tế']"
+tut,"['university', 'department', 'technology']","['dân_số', 'diện_tích', 'huyện']"
+twilio,"['voice', 'marketing', 'business', 'service', 'communication', 'platform']",[]
+twitter,[],"['nội_dung', 'sở_thích', 'chủ_sở_hữu']"
+ucweb,"['storage', 'browser', 'services', 'gb', 'mobile']",['trình_duyệt']
 umeng,['offline'],[]
-urbanairship,"['companies', 'airship', 'date', 'dba', 'inc', 'services', 'notifications']",[]
-urekamedia,"['publishers', 'advertisers']",[]
-useinsider,"['marketers', 'platform', 'management']",[]
-vdo,"['label', 'product']",['dịch_vụ']
-vertu,[],"['bh', 'công_ty', 'doanh_nhân', 'mẫu']"
-vertuonline,"['mobile', 'smartphones', 'phones', 'hand', 'vertu']",['thông_tin']
-vhandicap,[],"['hệ_thống', 'việt_nam', 'quốc_gia', 'hiệp_hội']"
-vib,[],"['khách_hàng', 'dịch_vụ', 'ngân_hàng', 'quốc_tế']"
-viber,['calls'],"['nhà_cung_cấp', 'thiết_bị', 'android']"
+unity3d,"['animation', 'game', 'site', 'development', 'engine', 'programming', 'film', 'platform']",[]
+urbanairship,"['inc', 'dba', 'companies', 'services', 'date', 'notifications', 'airship']",[]
+urekamedia,"['advertisers', 'publishers']",[]
+useinsider,"['platform', 'marketers', 'management']",[]
+vcbs,[],"['chứng_khoán', 'tài_chính', 'sản', 'thị_trường']"
+vdo,"['products', 'label']",['dịch_vụ']
+vertu,[],"['mẫu', 'dòng', 'loại_hình', 'bh']"
+vertuonline,"['vertu', 'smartphones', 'phones', 'hand', 'mobile']",['thông_tin']
+vhandicap,[],"['quốc_gia', 'việt_nam', 'hệ_thống', 'hiệp_hội']"
+vib,[],"['quốc_tế', 'dịch_vụ', 'lợi_ích', 'ngân_hàng']"
+viber,['calls'],"['thiết_bị', 'android', 'nhà_cung_cấp']"
 vidazoo,"['industry', 'technology']",[]
-vietcombank,[],"['ngoại_thương', 'bảo_hiểm', 'ngân_hàng']"
-vietinbank,[],"['dịch_vụ', 'ngân_hàng', 'công_thương']"
-vietnamairlines,"['airlines', 'fares']","['giá', 'sải', 'cánh']"
-vietnammoi,[],"['tin_tức', 'đời_sống', 'đô_thị', 'khu', 'thành_phố']"
-vietnamnet,[],"['tin_tức', 'báo', 'báo_điện_tử']"
-vietnamnetjsc,['hotline'],[]
-vietsov,"['browser', 'home', 'firefox', 'luxury', 'resort']","['hệ_thống', 'kế_hoạch', 'bộ_máy']"
-vietstock,"['livestock', 'meat']","['kinh_tế', 'tài_chính', 'quốc_tế']"
-vietteltelecom,"['innovation', 'creativeness']","['thông_tin', 'dịch_vụ']"
-vietthien,[],"['doanh_nghiệp', 'hà', 'công_ty', 'nội']"
+videocloud,"['month', 'service', 'business', 'store']",[]
+vietcombank,[],"['bảo_hiểm', 'ngoại_thương', 'ngân_hàng']"
+vietinbank,[],"['công_thương', 'tài_chính', 'ngân_hàng']"
+vietnamairlines,"['airlines', 'fares']","['sải', 'cánh', 'giá']"
+vietnammoi,[],"['tin_tức', 'xã_hội', 'đời_sống', 'đô_thị', 'thành_phố']"
+vietnamnet,[],"['báo_điện_tử', 'báo', 'tin_tức']"
+vietnamnetjsc,['email'],[]
+vietsov,"['resort', 'firefox', 'browser', 'luxury', 'home']","['bộ_máy', 'hệ_thống', 'kế_hoạch']"
+vietstock,"['meat', 'livestock']","['quốc_tế', 'tài_chính', 'kinh_tế']"
+viettel,"['understanding', 'creativeness']",['dịch_vụ']
+vietteltelecom,"['innovation', 'creativeness']","['dịch_vụ', 'thông_tin']"
+vietthien,[],"['danh', 'tnhh', 'hà', 'sâm']"
 vinid,[],"['tiền', 'ca_nhạc', 'hoá_đơn']"
-vivoglobal,"['stores', 'tech', 'device', 'philippines', 'products', 'photography']",[]
-vnay,"['site', 'app']",['ngày_nay']
-vnexpress,[],"['thông_tin', 'tin_tức', 'tiếng', 'nội_dung']"
+vivoglobal,"['device', 'stores', 'tech', 'photography', 'products', 'philippines']",[]
+vnay,"['app', 'site']",['ngày_nay']
+vnexpress,[],"['nội_dung', 'tiếng', 'tin_tức', 'thông_tin']"
+vng,"['people', 'life']","['giải_pháp', 'dịch_vụ', 'hệ_sinh_thái']"
 vnkuvideo,[],['phòng']
-vnpay,[],"['cổ_phần', 'công_ty', 'giải_pháp']"
-vnpgroup,[],"['cổ_phần', 'công_ty', 'hệ_sinh_thái']"
+vnpay,[],"['giải_pháp', 'lĩnh_vực', 'cổ_phần']"
+vnpgroup,[],"['cổ_phần', 'hạnh_phúc', 'hệ_sinh_thái']"
 vnpt,[],['viễn_thông']
-vtc,[],"['kênh_truyền_hình', 'đài_truyền_hình', 'báo_điện_tử']"
-vtv,[],['đài_truyền_hình']
-vungle,"['mobile', 'app', 'advertising']",[]
-wayfair,"['commerce', 'furniture', 'decor']",[]
+voipzoom,"['world', 'messages', 'text']",[]
+vpbank,[],"['dịch_vụ', 'dư_nợ', 'ngân_hàng']"
+vsmart,[],"['bản_lĩnh', 'cuộc_sống']"
+vstock,[],"['lệnh', 'sàn', 'hnx']"
+vtc,[],['báo_điện_tử']
+vtv,[],"['đài_truyền_hình', 'báo_điện_tử']"
+vtvgiaitri,[],['công_nghệ']
+vungle,"['advertising', 'app', 'mobile']",[]
+wayfair,"['furniture', 'decor', 'commerce']",[]
+weather,"['forecast', 'summer', 'hurricane', 'precip', 'rain', 'year', 'alerts', 'sun', 'information']",[]
 weathercn,[],[]
-whatsapp,['messages'],"['điện_thoại', 'giấy_phép', 'nền_tảng']"
-windowsupdate,"['computer', 'software', 'windows', 'system']",['phương_pháp']
+wesingapp,"['friends', 'group']",[]
+whatsapp,['computer'],['giấy_phép']
+windowsupdate,"['software', 'system', 'computer', 'windows']",['phương_pháp']
 winworker,[],[]
-worldtraveler,"['billy', 'domain', 'outfitter', 'film', 'rights', 'luggage']",[]
-wps,"['spreadsheets', 'templates', 'yearly', 'professional']","['phần_mềm', 'tương_thích', 'nền_tảng']"
-xemlacuoi,"['delusion', 'disorder']",[]
-xosodaiphat,[],"['hôm_nay', 'kết_quả', 'xổ_số']"
+worldtraveler,"['rights', 'domain', 'luggage', 'film', 'billy', 'outfitter']",[]
+wps,"['professional', 'yearly', 'templates', 'spreadsheets']","['đối_thủ', 'phần_mềm', 'tương_thích']"
+wpsmail,"['commerce', 'email', 'captcha']",[]
+wzrkt,[],['thông_tin']
+xemay50,[],['xe_máy']
+xemlacuoi,"['disorder', 'delusion']",[]
+xhamster,"['videos', 'photos', 'hd', 'tube', 'browse', 'xxx', 'porn', 'adult']",[]
+xoso,[],"['xổ_số', 'minh_ngọc']"
+xosodaiphat,[],"['xổ_số', 'kết_quả']"
 xskt,[],"['xổ_số', 'kết_quả']"
-xtits,"['pictures', 'videos', 'code', 'image']",[]
-xxnx,"['porn', 'sex', 'porno', 'videos']",[]
+xtits,"['code', 'image', 'videos', 'pictures']",[]
+xxnx,"['porn', 'porno', 'videos', 'sex']",[]
+xxxcom,"['flick', 'movies', 'porn']",[]
 xygala,[],[]
-yan,[],"['tin_tức', 'hình_ảnh', 'hơp']"
-yo88vn,[],"['tiền', 'hũ', 'thẻ']"
-yomedia,"['multimedia', 'marketing']",[]
-youme,"['shopping', 'waste', 'eco']","['doanh_nghiệp', 'công_ty', 'văn_phòng']"
+yahoo,[],"['nội_dung', 'tài_chính', 'tin_tức', 'thông_tin']"
+yan,[],"['hơp', 'tin_tức', 'hình_ảnh']"
+yandex,"['video', 'products', 'images', 'services']","['vốn', 'loại_hình', 'chủ_sở_hữu']"
+yo88vn,[],"['thẻ', 'tiền', 'hũ']"
+yomedia,"['marketing', 'multimedia']",[]
+youme,"['shopping', 'eco', 'waste']","['luật', 'văn_phòng', 'doanh_nghiệp']"
+youtube,"['friends', 'videos']","['mục_tiêu', 'đối_tượng', 'nội_dung']"
 zalo,[],"['máy_tính', 'màn_hình', 'tính_năng']"
-zigavn,[],"['cờ', 'máy_tính', 'cờ_tướng']"
+zigavn,[],"['cờ_tướng', 'cờ', 'máy_tính']"
 zigzag,[],['phần_mềm']
-zing,[],"['công_nghệ', 'dịch_vụ', 'chất_lượng']"
-zingmp3,[],"['dịch_vụ', 'thiết_bị', 'chất_lượng']"
-zingnews,[],"['thông_tin', 'hình_ảnh']"
+zing,[],"['công_nghệ', 'nhạc', 'dịch_vụ']"
+zingmp3,[],"['nhạc', 'thiết_bị', 'dịch_vụ']"
+zingnews,[],"['hình_ảnh', 'thông_tin']"
+zingplay,[],"['binh', 'tá', 'cờ']"
