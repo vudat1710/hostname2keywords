@@ -1,4 +1,10 @@
 *.tsv
 __pycache__
 merge_crawled_data.csv
+merge_crawled_data_super_rich.csv
+merge_crawled_data_taxi.csv
 gg_search_lang.csv
+gg_search_lang_super_rich.csv
+res.csv
+sample.py
+*.csv#

@@ -1,6 +1,7 @@
 import pandas as pd
 import re, ast
 from tldextract import extract
+import pickle as pkl
 
 def preprocess_df(df):
     df["count"] = df.groupby(["msisdn", "domain_name"])["domain_name"].transform("count")
@@ -30,8 +31,9 @@ def merge_columns(desc, web_title, desc_lang, web_title_lang):
 
 
 if __name__=="__main__":
-    df = pd.read_csv("super_rich_full_network.tsv", sep="\t", index_col=0)
+    df = pd.read_csv("data/sample_taxi_drivers_full_network.tsv", sep="\t", index_col=0)
     dn = preprocess_df(df)
+    pkl.dump(dn, open("domain_name.pkl", "wb"))
     # df = pd.read_csv("data/merge_crawled_data.csv")
     # df["merged_text"] = df.apply(lambda x: merge_columns(x.description, x.web_title, x.desc_lang, x.web_title_lang), axis=1)
     # df.to_csv("data/merge_crawled_data.csv", index=False)
